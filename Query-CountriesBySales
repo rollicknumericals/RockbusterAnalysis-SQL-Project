@@ -1,0 +1,17 @@
+SELECT 
+    D.country,
+    SUM(A.amount) AS total_sales
+FROM 
+    payment A
+INNER JOIN 
+    customer B ON A.customer_id = B.customer_id
+INNER JOIN 
+    address C ON B.address_id = C.address_id
+INNER JOIN 
+    city E ON C.city_id = E.city_id
+INNER JOIN 
+    country D ON E.country_id = D.country_id
+GROUP BY 
+    D.country
+ORDER BY 
+    total_sales DESC;
