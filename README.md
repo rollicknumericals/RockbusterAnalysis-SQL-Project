@@ -22,7 +22,7 @@ The dataset used in this project contains details about Rockbuster's film invent
 ## Analysis Criteria
 - Write SQL queries needed to pull the information the board is looking for.
 - Create visualizations in Tableau.
-- Tell a visual data-driven [narrative](https://github.com/rollicknumericals/RockbusterAnalysis-SQL-Project#:~:text=Managers%27%20Presentation.pdf)with actionable solutions.
+- Tell a visual data-driven [narrative](https://github.com/rollicknumericals/RockbusterAnalysis-SQL-Project#:~:text=Managers%27%20Presentation.pdf) with actionable solutions.
 - Present SQL [results](https://github.com/rollicknumericals/RockbusterAnalysis-SQL-Project#:~:text=10%20Commits-,3.10tops.xlsx,-Add%20files%20via) to technical colleagues using Excel.
 - Create a [data dictionary](https://github.com/rollicknumericals/RockbusterAnalysis-SQL-Project#:~:text=6%20hours%20ago-,Data%20Dictionary.pdf,-Add%20files%20via).
   
